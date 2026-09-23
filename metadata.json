@@ -1,0 +1,6 @@
+{
+  "name": "Numpa — Financial Intelligence & Number Operations",
+  "description": "Numpa is the modern financial intelligence and numbers platform for fast-growing companies, agencies, and studios. Real-time cash forecasting, unit economics, and runway simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
